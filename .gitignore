@@ -1,0 +1,21 @@
+# Build directories
+.build_ue5/
+build/
+
+# gRPC submodule (tracked by submodule, not by main repo)
+grpc/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
