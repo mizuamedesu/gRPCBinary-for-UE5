@@ -2,9 +2,6 @@
 .build_ue5/
 build/
 
-# gRPC submodule (tracked by submodule, not by main repo)
-grpc/
-
 # Visual Studio
 .vs/
 *.suo
